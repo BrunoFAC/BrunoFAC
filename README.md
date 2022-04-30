@@ -29,7 +29,8 @@
 
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
-                                           
+              
+</div>                             
 
 <div>
 <h3 align="left">Connect with me:</h3>
