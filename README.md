@@ -18,7 +18,7 @@
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" alt="typescript" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="typescript" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-<img src="[NextJs](https://cdn.worldvectorlogo.com/logos/next-js.svg)" alt="nextjs" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/>
 </p>
               
 </div>                             
