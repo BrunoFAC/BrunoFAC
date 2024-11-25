@@ -1,7 +1,7 @@
 ### Developer
 
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunoFAC"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunoFAC&hide=contribs,prs"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoFAC"/>
 </div>
 
